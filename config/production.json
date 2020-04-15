@@ -1,5 +1,0 @@
-{
-    "port": 1337,
-    "mongoUri": "mongodb+srv://developer:anatoliy23042394@cluster0-wejf8.mongodb.net/test?retryWrites=true&w=majority",
-    "jwtSecret": "keep-money"
-}
